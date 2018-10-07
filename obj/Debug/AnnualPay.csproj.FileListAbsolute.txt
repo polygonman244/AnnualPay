@@ -1,0 +1,10 @@
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\bin\Debug\AnnualPay.exe.config
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\bin\Debug\AnnualPay.exe
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\bin\Debug\AnnualPay.pdb
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.csprojAssemblyReference.cache
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.Form1.resources
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.Properties.Resources.resources
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.csproj.GenerateResource.cache
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.csproj.CoreCompileInputs.cache
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.exe
+C:\Users\Pseudo\AppData\Local\Temporary Projects\AnnualPay\obj\Debug\AnnualPay.pdb
